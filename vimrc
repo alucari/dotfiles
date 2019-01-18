@@ -32,6 +32,7 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 
 NeoBundle 'Shougo/neocomplcache'
 NeoBundle 'Shougo/unite.vim'
+NeoBundle 'Shougo/neomru.vim'
 NeoBundle 'Lokaltog/vim-powerline'
 NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'gtags.vim'
