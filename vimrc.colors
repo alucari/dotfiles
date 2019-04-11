@@ -6,6 +6,18 @@ colorscheme molokai
 " ターミナルタイプによるカラー設定
 if &term =~ "xterm-256color" || "screen-256color"
     colorscheme molokai
-    hi Comment ctermfg=102
-    hi Visual  ctermbg=236
+   hi Comment ctermfg=246
+   hi Visual  ctermbg=236
+   hi MatchParen ctermfg=24
 endif
+" colorscheme lucius
+" 
+" syntax on
+" " 256色¬
+" set t_Co=256¬
+" " truecolor¬
+" set termguicolors
+" " 背景色¬
+" set background=dark¬
+ 
+set t_Co=256

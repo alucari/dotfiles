@@ -37,6 +37,7 @@ NeoBundle 'Lokaltog/vim-powerline'
 NeoBundle 'scrooloose/nerdtree'
 NeoBundle 'gtags.vim'
 NeoBundle 'tomasr/molokai'
+" NeoBundle 'jonathanfilip/vim-lucius'
 call neobundle#end()
 
 " Required:
