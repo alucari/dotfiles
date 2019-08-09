@@ -34,6 +34,7 @@ setopt nolistbeep
 # ヒストリを呼び出してから実行する間に一旦編集できる状態になる
 setopt hist_verify
  
+unsetopt extended_glob
 #alias ls="ls -G"
 #alias gls="gls --color"
 
